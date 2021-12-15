@@ -1,4 +1,5 @@
 ## `./about-me`
+[![C#][00.2]][00]
 [![C++][01.2]][01]
 [![JS][02.2]][02]
 [![TS][03.2]][03]
@@ -15,6 +16,7 @@
 hey there!  i'm a software developer that builds LEGO sets, keyboards, and makes Discord bots.  i recently started learning how to develop games using the Unreal Engine via C++ and blueprints.  my current goal is to one day develop and release a game on Steam.
 
 <!-- icons -->
+[00.2]: https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet
 [01.2]: https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=blueviolet
 [02.2]: https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=blueviolet
 [03.2]: https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blueviolet
@@ -29,6 +31,7 @@ hey there!  i'm a software developer that builds LEGO sets, keyboards, and makes
 [12.2]: https://img.shields.io/badge/Social-Twitch-informational?style=flat&logo=Twitch&logoColor=white&color=cyan
 
 <!-- links -->
+[00]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [01]: https://www.cplusplus.com/
 [02]: https://www.javascript.com/
 [03]: https://www.typescriptlang.org/
