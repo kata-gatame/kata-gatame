@@ -15,6 +15,9 @@
 
 hey there!  i'm a software developer that builds LEGO sets, keyboards, and makes Discord bots.  i recently started learning how to develop games using the Unreal Engine via C++ and blueprints.  my current goal is to one day develop and release a game on Steam.
 
+## `./portfolio`
+[here][13] is my current portfolio, as anemic as it may be...
+
 <!-- icons -->
 [00.2]: https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet
 [01.2]: https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=blueviolet
@@ -44,3 +47,4 @@ hey there!  i'm a software developer that builds LEGO sets, keyboards, and makes
 [10]: https://steamcommunity.com/id/katagatame_
 [11]: https://twitter.com/katagatame_
 [12]: https://twitch.tv/katagatame_
+[13]: https://kata-gatame.github.io/portfolio/
