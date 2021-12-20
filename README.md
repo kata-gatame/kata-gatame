@@ -15,8 +15,10 @@
 
 hey there!  i'm a software developer that builds LEGO sets, keyboards, and makes Discord bots.  i recently started learning how to develop games using the Unreal Engine via C++ and blueprints.  my current goal is to one day develop and release a game on Steam.
 
+<!--
 ## `./portfolio`
 [here][13] is my current portfolio, as anaemic as it may be...
+-->
 
 <!-- icons -->
 [00.2]: https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet
