@@ -13,7 +13,7 @@
 [![Twitter][11.2]][11]
 [![Twitch][12.2]][12]
 
-hey there! i'm a software developer that builds LEGO sets, keyboards, and makes Discord bots. my current goal is to find a job in the game industry and one day develop and release a game of my own on Steam.
+hey there! i'm a software developer that builds LEGO sets, keyboards, and makes Discord bots. my current goal is to one day develop and release a game of my own on Steam.
 
 <!--
 ## `./portfolio`
