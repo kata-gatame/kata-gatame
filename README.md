@@ -4,12 +4,11 @@
 [![JS][02.2]][02]
 [![TS][03.2]][03]
 [![Rust][04.2]][04]
-[![Actions][05.2]][05]
-[![UnrealEngine][06.2]][06]<br />
 [![VS][07.2]][07]
-[![VSCode][08.2]][08]
-[![Twitter][11.2]][11]
-[![Twitch][12.2]][12]
+[![VSCode][08.2]][08]<br />
+[![Actions][05.2]][05]
+[![UnrealEngine][06.2]][06]
+
 
 hey there! i'm a software developer that builds LEGO sets, keyboards, and makes Discord bots. my current goal is to one day develop and release a game of my own on Steam.
 
@@ -28,8 +27,6 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [06.2]: https://img.shields.io/badge/Tools-Unreal_Engine-informational?style=flat&logo=Unreal-Engine&logoColor=white&color=hotpink
 [07.2]: https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=blue
 [08.2]: https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue
-[11.2]: https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=cyan
-[12.2]: https://img.shields.io/badge/Social-Twitch-informational?style=flat&logo=Twitch&logoColor=white&color=cyan
 
 <!-- links -->
 [00]: https://docs.microsoft.com/en-us/dotnet/csharp/
@@ -41,6 +38,4 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [06]: https://www.unrealengine.com/en-US/
 [07]: https://visualstudio.microsoft.com/
 [08]: https://code.visualstudio.com/
-[11]: https://twitter.com/katagatame_
-[12]: https://twitch.tv/katagatame_
 [13]: https://kata-gatame.github.io/portfolio/
