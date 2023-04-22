@@ -12,7 +12,7 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [![VSCode][08.2]][08]
 [![Actions][05.2]][05]<br />
 [![UnrealEngine][06.2]][06]<br />
-[![Mastodon][15.0]][15]
+<a rel="me" href="https://mastodon.gamedev.place/@katagatame"><img src="https://img.shields.io/badge/Social-Mastodon-informational?style=flat&logo=mastodon&logoColor=white&color=green" alt="Mastodon" style="max-width: 100%;"></a>
 
 <!-- icons -->
 [00.2]: https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet
@@ -25,7 +25,6 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [07.2]: https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=blue
 [08.2]: https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue
 [09.2]: https://img.shields.io/badge/Editor-Rider_for_Unreal-informational?style=flat&logo=rider&logoColor=white&color=blue
-[15.0]: https://img.shields.io/badge/Social-Mastodon-informational?style=flat&logo=mastodon&logoColor=white&color=green
 
 <!-- links -->
 [00]: https://docs.microsoft.com/en-us/dotnet/csharp/
@@ -39,4 +38,3 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [08]: https://code.visualstudio.com/
 [09]: https://www.jetbrains.com/lp/rider-unreal/
 [13]: https://kata-gatame.github.io/portfolio/
-[15]: https://mastodon.gamedev.place/@katagatame
