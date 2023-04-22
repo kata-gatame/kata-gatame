@@ -12,7 +12,6 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [![VSCode][08.2]][08]
 [![Actions][05.2]][05]<br />
 [![UnrealEngine][06.2]][06]<br />
-<a rel="me" href="https://mastodon.gamedev.place/@katagatame"><img src="https://img.shields.io/badge/Social-Mastodon-informational?style=flat&logo=mastodon&logoColor=white&color=green" alt="Mastodon"></a>
 
 <!-- icons -->
 [00.2]: https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet
