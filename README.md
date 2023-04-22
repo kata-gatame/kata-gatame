@@ -42,3 +42,5 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [08]: https://code.visualstudio.com/
 [09]: https://www.jetbrains.com/lp/rider-unreal/
 [13]: https://kata-gatame.github.io/portfolio/
+
+<a rel="me" href="https://mastodon.gamedev.place/@katagatame"></a>
