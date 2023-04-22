@@ -9,9 +9,9 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [![Rust][04.2]][04]<br />
 [![Rider][09.2]][09]
 [![VS][07.2]][07]
-[![VSCode][08.2]][08]
-[![Actions][05.2]][05]<br />
-[![UnrealEngine][06.2]][06]<br />
+[![VSCode][08.2]][08]<br />
+[![Actions][05.2]][05]
+[![UnrealEngine][06.2]][06]
 
 <!-- icons -->
 [00.2]: https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet
@@ -19,7 +19,7 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [02.2]: https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=blueviolet
 [03.2]: https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blueviolet
 [04.2]: https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=blueviolet
-[05.2]: https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=GitHub-Actions&logoColor=white&color=blue
+[05.2]: https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=GitHub-Actions&logoColor=white&color=hotpink
 [06.2]: https://img.shields.io/badge/Tools-Unreal_Engine-informational?style=flat&logo=Unreal-Engine&logoColor=white&color=hotpink
 [07.2]: https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=blue
 [08.2]: https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue
