@@ -1,7 +1,6 @@
 ## `./about-me`
 hey there! i'm a software developer that builds LEGO sets, keyboards, and makes Discord bots. my current goal is to one day develop and release a game of my own on Steam.
 
-### `./languages`
 [![C#][00.2]][00]
 [![C++][01.2]][01]
 [![JS][02.2]][02]
@@ -10,7 +9,6 @@ hey there! i'm a software developer that builds LEGO sets, keyboards, and makes 
 [![Rider][09.2]][09]
 [![VS][07.2]][07]
 [![VSCode][08.2]][08]<br />
-[![Actions][05.2]][05]
 [![UnrealEngine][06.2]][06]
 
 <!-- icons -->
